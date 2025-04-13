@@ -42,3 +42,14 @@ A backend server for the Group Chatly application, built with Node.js and Expres
 - **Implementation**:
   - Defined specific roles for EC2 and S3 access.
   - Applied the principle of least privilege to enhance security.
+ 
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites:
+- Node.js
+- MongoDB URI
+- AWS S3 Credentials (Access Key, Secret Key, Bucket Name)
+
